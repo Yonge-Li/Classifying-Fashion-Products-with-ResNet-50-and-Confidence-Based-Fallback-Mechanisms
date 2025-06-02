@@ -1,0 +1,8 @@
+import os
+import json
+import shutil
+
+# Paths
+json_dir = r"data\train\annos"
+image_dir = r"data\train\image"
+subset_dir = r"data\train\Subset"

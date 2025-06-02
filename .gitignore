@@ -1,0 +1,68 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# =====================
+# Jupyter Notebook
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# Virtual environments
+# =====================
+venv/
+env/
+.venv/
+ENV/
+*.env
+
+# =====================
+# Logs & Output
+# =====================
+*.log
+*.csv
+*.out
+logs/
+
+# =====================
+# Model Checkpoints
+# =====================
+*.pth
+*.pt
+*.ckpt
+
+# =====================
+# Data
+# =====================
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# =====================
+# OS/System Files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# VSCode / PyCharm / IDE settings (可选)
+# =====================
+.vscode/
+.idea/
+
+# =====================
+# Visualization output
+# =====================
+visualizations/
+*.png
+*.jpg
+*.jpeg
