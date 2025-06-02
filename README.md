@@ -1,4 +1,4 @@
-# 🧠 Hierarchical Image Classification with PyTorch
+#  Hierarchical Image Classification with PyTorch
 
 This project implements a **hierarchical classification system** for fashion product images. It classifies an image into both **main categories** (e.g., Clothing, Bags, Shoes) and more specific **subcategories** (e.g., Dresses, Boots, Tote Bags). The model is built with PyTorch and ResNet50 and supports interactive inference via Jupyter widgets.
 
